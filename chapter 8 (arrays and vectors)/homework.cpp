@@ -133,6 +133,7 @@ int main()
     int s1 = 5;
     int s2 = 5;
     findIntersection(arr1, s1, arr2, s2);
+    
 
     return 0;
 }
