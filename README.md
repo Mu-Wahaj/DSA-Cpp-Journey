@@ -33,7 +33,7 @@ Beginners looking to strengthen their problem-solving skills and understanding o
 Clone this repository and start exploring the solutions and notes:
 bash Copy code git clone https://github.com/Mu-Wahaj/DSA-C--Journey.git ##📝 Contribution
 
-Feel free to contribute by suggesting new problems, optimizing existing solutions, or adding new topics. Open a pull request or an issue, and let's collaborate!
+Feel free to contribute by suggesting new problems, optimizing existing solutions, or adding new topics. Open a pull request or an issue, and let's collaborate thank you !
 
 connect with me ::
 mwahajjutt123@gmail.com
